@@ -8,3 +8,5 @@ Esta linda eu alterei diretamente no site do GitHub
 **Esta linha está em negrito** 
 
 *Esta linha está em itálico*
+
+~~Esta linha está riscada~~

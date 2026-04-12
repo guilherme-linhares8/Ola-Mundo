@@ -14,3 +14,5 @@ __Esta linha também está em negrito__
 ~~Esta linha está riscada~~
 
 Esta linha é comum
+
+~~Esta linha está riscada 2~~

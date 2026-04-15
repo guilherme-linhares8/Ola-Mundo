@@ -21,3 +21,4 @@ Esta linha é comum
 
 **negrito**
 *itálico*
+~~riscada~~

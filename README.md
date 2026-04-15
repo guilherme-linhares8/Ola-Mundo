@@ -22,3 +22,5 @@ Esta linha é comum
 **negrito**
 *itálico*
 ~~riscada~~
+
+__*negritoEitalico*__

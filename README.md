@@ -20,7 +20,9 @@ Esta linha é comum
 ~~Esta linha está riscada 2~~
 
 **negrito**
+__negrito__
 *itálico*
+_itálico_
 ~~riscada~~
 
 # Header level 1

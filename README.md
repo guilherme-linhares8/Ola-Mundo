@@ -19,6 +19,7 @@ __negrito__
 _itálico_
 _itálico_
 ~~riscada~~
+~~riscada~~
 
 # Header level 1
 ### Cabeçalho nível 3

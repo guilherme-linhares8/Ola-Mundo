@@ -28,3 +28,4 @@ _itálico_
 __*negritoEitalico*__
 
 Texto misturando palavras em *itálico* e em **negrito**.
+**negrito**

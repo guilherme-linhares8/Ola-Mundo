@@ -15,6 +15,7 @@ __Esta linha também está em negrito__
 **negrito**
 **negrito**
 __negrito__
+**negroto**
 **negrito**
 *itálico*
 _itálico_
